@@ -2,5 +2,3 @@ ipywidgets==7.6.5
 bqplot==0.12.31
 openpyxl==3.0.9
 voila==0.3.3
-jupyterlab==3.4.2
-requests==2.27.1
