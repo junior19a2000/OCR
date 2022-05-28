@@ -2,5 +2,5 @@ ipywidgets==7.6.5
 bqplot==0.12.31
 openpyxl==3.0.9
 voila==0.3.3
-pandas==1.4.1
+pandas==1.3.5
 ipydatagrid==1.1.6
